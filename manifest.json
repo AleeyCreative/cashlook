@@ -1,0 +1,29 @@
+{
+    "name": "cashlook",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "An extension that quickly converts currencies on the page",
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_title": "cashlook"
+    },
+
+    "icons": {
+        "16": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    },
+    "permissions": ["alarms", "tabs", "contextMenus"],
+    "content_scripts": [
+        {
+        "css": ["content.css"],
+        "js": ["content.js", "utility/parser.js", "utility/currencies/currencies.js"],
+        "matches": ["<all_urls>"]
+        }
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "web_accessible_resources":["*.html"]
+}
