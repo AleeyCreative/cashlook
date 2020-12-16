@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="mockup.svg">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter911"
+       x="-0.11558331"
+       width="1.2311666"
+       y="-0.22713818"
+       height="1.4542764">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="20.575333"
+         id="feGaussianBlur913" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.13993578"
+     inkscape:cx="-435.41914"
+     inkscape:cy="1041.8612"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1530"
+     inkscape:window-height="991"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f9f9f9;stroke-width:3.01926;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1489"
+       width="678.82159"
+       height="396.51123"
+       x="-237.81291"
+       y="-94.907646" />
+    <rect
+       style="fill:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.980392;filter:url(#filter911)"
+       id="rect901"
+       width="427.23123"
+       height="217.40422"
+       x="-118.38627"
+       y="-2.9204566" />
+    <rect
+       style="fill:#00112b;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.980392"
+       id="rect833"
+       width="427.23123"
+       height="217.40422"
+       x="-118.38627"
+       y="-2.9204566" />
+    <g
+       id="g855"
+       transform="translate(10.583333,21.166667)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.8703px;line-height:1.25;font-family:Caladea;-inkscape-font-specification:'Caladea, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#81ff80;fill-opacity:1;stroke:none;stroke-width:1.22176"
+         x="-27.208281"
+         y="66.896591"
+         id="text837"><tspan
+           sodipodi:role="line"
+           id="tspan835"
+           x="-27.208281"
+           y="66.896591"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48.8703px;font-family:Caladea;-inkscape-font-specification:'Caladea, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#81ff80;fill-opacity:1;stroke-width:1.22176">48,000</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.1809px;line-height:1.25;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#80e5ff;fill-opacity:1;stroke:none;stroke-width:0.504523"
+         x="-94.425201"
+         y="59.172882"
+         id="text841"><tspan
+           sodipodi:role="line"
+           id="tspan839"
+           x="-94.425201"
+           y="59.172882"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.1809px;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#80e5ff;stroke-width:0.504523">USD</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.0474px;line-height:1.25;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#80e5ff;fill-opacity:1;stroke:none;stroke-width:0.376185"
+         x="-102.42861"
+         y="1.0004786"
+         id="text865"><tspan
+           sodipodi:role="line"
+           id="tspan863"
+           x="-102.42861"
+           y="1.0004786"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.0474px;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#80e5ff;stroke-width:0.376185">cashlook</tspan></text>
+    </g>
+    <g
+       id="g861"
+       transform="translate(10.583333)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.8703px;line-height:1.25;font-family:Caladea;-inkscape-font-specification:'Caladea, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#81ff80;fill-opacity:1;stroke:none;stroke-width:1.22176"
+         x="-27.208281"
+         y="162.14658"
+         id="text845"><tspan
+           sodipodi:role="line"
+           id="tspan843"
+           x="-27.208281"
+           y="162.14658"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48.8703px;font-family:Caladea;-inkscape-font-specification:'Caladea, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#81ff80;fill-opacity:1;stroke-width:1.22176">240,000</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.1809px;line-height:1.25;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#80e5ff;fill-opacity:1;stroke:none;stroke-width:0.504523;"
+         x="-94.425201"
+         y="154.42288"
+         id="text849"><tspan
+           sodipodi:role="line"
+           id="tspan847"
+           x="-94.425201"
+           y="154.42288"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.18090037px;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#80e5ff;stroke-width:0.504523;">NGN</tspan></text>
+    </g>
+    <circle
+       style="fill:#ff5555;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.980392;fill-opacity:1"
+       id="path867"
+       cx="286.35934"
+       cy="16.054468"
+       r="5.894546" />
+    <rect
+       style="fill:#ff5555;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.980392;fill-opacity:1"
+       id="rect869"
+       width="426.86209"
+       height="26.558727"
+       x="-118.38626"
+       y="187.92505" />
+    <rect
+       style="fill:#81ff80;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.980392;fill-opacity:1"
+       id="rect871"
+       width="83.196098"
+       height="38.65102"
+       x="193.45885"
+       y="52.40226" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="257.53467"
+       y="72.69545"
+       id="text875"><tspan
+         sodipodi:role="line"
+         id="tspan873"
+         x="257.53467"
+         y="72.69545"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.0474px;line-height:1.25;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.376185"
+       x="-70.480392"
+       y="204.06001"
+       id="text879"><tspan
+         sodipodi:role="line"
+         id="tspan877"
+         x="-70.480392"
+         y="204.06001"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.0474px;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.376185">Sorry unable to parse currency!</tspan></text>
+    <path
+       style="fill:#ffdddd;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -97.438123,193.83944 -6.632307,11.28908 h 12.842333 z"
+       id="path899" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#78efa5;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path933"
+       sodipodi:type="arc"
+       sodipodi:cx="239.11307"
+       sodipodi:cy="148.084"
+       sodipodi:rx="11.964128"
+       sodipodi:ry="11.964128"
+       sodipodi:start="0"
+       sodipodi:end="4.059103"
+       sodipodi:arc-type="slice"
+       d="m 251.0772,148.084 a 11.964128,11.964128 0 0 1 -9.37934,11.68158 11.964128,11.964128 0 0 1 -13.43206,-6.63409 11.964128,11.964128 0 0 1 3.57548,-14.54809 l 7.27179,9.5006 z" />
+    <rect
+       style="fill:#00112b;fill-opacity:1;stroke-width:3.67983;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1491"
+       width="24.002146"
+       height="23.842024"
+       x="-186.46872"
+       y="263.93842" />
+    <rect
+       style="fill:#ff5555;fill-opacity:1;stroke-width:3.67983;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1493"
+       width="24.002146"
+       height="23.842024"
+       x="-163.71448"
+       y="263.93842" />
+    <rect
+       style="fill:#81ff80;fill-opacity:1;stroke-width:3.67983;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1495"
+       width="24.002146"
+       height="23.842024"
+       x="-139.90193"
+       y="263.93842" />
+    <rect
+       style="fill:#80e5ff;fill-opacity:1;stroke-width:3.67983;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1497"
+       width="24.002146"
+       height="23.842024"
+       x="-92.277023"
+       y="263.93842" />
+    <rect
+       style="fill:#ffdddd;fill-opacity:1;stroke-width:3.67983;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1501"
+       width="24.002146"
+       height="23.842024"
+       x="-116.08951"
+       y="263.93842" />
+  </g>
+</svg>

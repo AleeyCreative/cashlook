@@ -16,9 +16,9 @@ function isNotEmpty(selectedString) {
 }
 
 function parseAmount(strg) {
-    let regx = new RegExp("[+-]?[0-9]+(\.[0-9]+)?", 'g')
+    let regx = new RegExp("[+-]?([0-9]+,?)+(\.[0-9]+)?", 'g')
     let match = regx.exec(strg)
-    if(match) return Number(match[0])
+    if(match) return Number(match[0].split(",").join(""))
     throw new Error("Unable to parse amount")
 }
 

@@ -1,0 +1,1 @@
+This currency list is provided by [Fluidbyte](https://gist.github.com/Fluidbyte/2973986)

@@ -1,3 +1,101 @@
-.uiWindow-show {
+:root {
+    --cashlook-bg: #00112b;
+    --cashlook-red: #ff5555;
+    --cashlook-blue: #80e5ff;
+    --cashlook-green: #81ff80;
+}
+
+body {
+    height: 100vh;
+}
+
+.cashlook-card {
     display: block;
+    position: fixed;
+    top: 20px;
+    right: 120px;
+    max-height: 260px;
+    max-width: 420px;
+    background: var(--cashlook-bg);
+    box-shadow: grey 1px 1px 40px 1px;
+}
+
+.cashlook-title {
+    display: flex;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cashlook-title h3 {
+    color: var(--cashlook-blue);
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+}
+.cashlook-close {
+    border-radius: 100%;
+    display: inline-block;
+    width: 20px; height: 20px;
+    border: transparent;
+    background: var(--cashlook-red);
+}
+
+.cashlook-container {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    padding: 20px 25px;
+}
+
+/* overrides */
+.cashlook-selectbox, .cashlook-inputbox {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+.cashlook-selectbox:focus, .cashlook-inputbox:focus {
+   outline: none;
+   border: none; 
+   background-color: transparent;
+}
+
+.cashlook-selectbox {
+    font-size: 18px;
+    max-width: 120px;
+    margin-right: 15px;
+    color: var(--cashlook-blue);
+}
+
+.cashlook-inputbox {
+    color: var(--cashlook-green);
+    font-size: 40px;
+    font-weight: bold;
+    max-width: 230px;
+}
+
+
+.cashlook-btn {
+    background-color: transparent;
+    border: 0px;
+    color: var(--cashlook-green);
+}
+
+.cashlook-alert {
+    background: var(--cashlook-red);
+    padding: 5px;
+    display: flex;
+    opacity: 0;
+    transition: .5s ease-in-out;
+    align-items: center;
+    padding-left: 20px;
+    color: white;
+}
+.cashlook-alert-show {
+    opacity: 1;
+}
+
+#convert {
+    cursor: pointer;
 }
