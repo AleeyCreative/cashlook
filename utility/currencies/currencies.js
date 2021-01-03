@@ -1,4 +1,4 @@
-{
+window.currencies = {
 	"USD": {
 		"symbol": "$",
 		"name": "US Dollar",

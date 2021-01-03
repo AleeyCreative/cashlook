@@ -1,55 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="mdi/css/materialdesignicons.css">
-    <link rel="stylesheet" href="content.css">
-    <title>Document</title>
-</head>
-<body>
-    <div class='cashlook-card'>
-        <div class="cashlook-title">
-            <h3> cashlook </h3>
-            <button role='button' class='cashlook-close'>  </button>
-        </div>
+<div class="cashlook-card">
+  <div class="cashlook-title">
+    <h3>cashlook</h3>
+    <button role="button" class="cashlook-close"></button>
+  </div>
 
-        <section class="cashlook-content">
-            <div class="cashlook-container">
-                <label for="base"> 
-                    <select name="base" class="cashlook-selectbox" id="base">
-                        <option value="USD"> USD </option>
-                        <option value="NGN"> NGN </option>
-                        <option value="CAD"> CAD </option>
-                    </select>
-                </label>
-                <input type="text" class="cashlook-inputbox" data-role='amount' value="45,000">
-                <button class="cashlook-btn convert" id="convert">
-                    <span class="mdi mdi-transfer"> convert </span>
-                </button>
-            </div>
-        </section>
+  <section class="cashlook-content">
+    <div class="cashlook-container">
+      <label for="inputCurrency">
+        <select name="inputCurrency" class="cashlook-selectbox" id="inputCurrency">
+          <option value="NGN">NGN</option>
+          <option value="CAD">CAD</option>
+          <option value="USD">USD</option>
+          <option value="EUR">EUR</option>
+          <option value="GBP">GBP</option>
+        </select>
+      </label>
+      <input
+        type="text"
+        class="cashlook-inputbox"
+        id="inputAmount"
+        data-role="inputAmount"
+        value="0"
+      />
+      <button class="cashlook-btn convert" id="convert">
+        <span class="mdi mdi-transfer"> convert </span>
+      </button>
+    </div>
+  </section>
 
-        <section class="cashlook-content">
-            <div class="cashlook-container">
-                <label for="base"> 
-                    <select name="base" class="cashlook-selectbox" id="base">
-                        <option value="USD"> USD </option>
-                        <option value="NGN"> NGN </option>
-                        <option value="CAD"> CAD </option>
-                    </select>
-                </label>
-                <input type="text" class="cashlook-inputbox"  value="45,000">
-                <button class="cashlook-btn" id="convert">
-                    <span class="mdi mdi-36px mdi-loading mdi-spin">  </span>
-                </button>
-            </div>
-        </section>
+  <section class="cashlook-content">
+    <div class="cashlook-container">
+      <label for="inputCurrency">
+        <select name="inputCurrency" class="cashlook-selectbox" id="outputCurrency">
+          <option value="NGN">NGN</option>
+          <option value="CAD">CAD</option>
+          <option value="USD">USD</option>
+          <option value="EUR">EUR</option>
+          <option value="GBP">GBP</option>
+        </select>
+      </label>
+      <input type="text" class="cashlook-inputbox" id="outputAmount" value="0" />
+      <button class="cashlook-btn" id="convert">
+        <span class="mdi mdi-36px cashlook-loading mdi-loading mdi-spin"> </span>
+      </button>
+    </div>
+  </section>
 
-        <div class="cashlook-alert" id="error">
-            Error
-        </div>
-    </div>   
-     <script src="background.js"></script>
-</body>
-</html>
+  <div class="cashlook-alert mdi mdi-alert" id="error">Error</div>
+</div>
