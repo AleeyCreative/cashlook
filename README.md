@@ -26,7 +26,7 @@ If you want to convert the `$650`, simply highlight it, right-click, and select 
 
 ## [Caveat](#caveat)
 
-This extension only support a handful of the more common currencies for now:
+This extension only come with a handful of the more common currencies for now:
 
 1. USD (US Dollar)
 2. CAD (Canadian Dollar)
